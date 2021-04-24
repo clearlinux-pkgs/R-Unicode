@@ -4,7 +4,7 @@
 #
 Name     : R-Unicode
 Version  : 13.0.0.2
-Release  : 22
+Release  : 23
 URL      : https://cran.r-project.org/src/contrib/Unicode_13.0.0-2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/Unicode_13.0.0-2.tar.gz
 Summary  : Unicode Data and Utilities
